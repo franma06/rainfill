@@ -1260,10 +1260,10 @@ header .header-logo a {
   padding: 0;
   outline: 0;
   border: none;
-  width: 57px;
-  height: 27px;
-  background: url("logo.png") no-repeat center;
-  background-size: 57px 27px;
+  width: 155px;
+  height: 44px;
+  background: url("logoblanco2.png") no-repeat center;
+  background-size: 160px 44px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
@@ -1939,7 +1939,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   padding: 0 50px;
 }
 #services .services-list .service-item p {
-  color: rgba(242, 242, 242, 0.5);
+  color: #BBBAB9;
 }
 #services .services-list .icon {
   display: inline-block;
@@ -2647,12 +2647,12 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   line-height: 6rem;
   padding: 0 3rem;
   width: 100%;
-  background: #f9a828;
+  background: #00C6B5;
   color: #000000;
   margin-top: .6rem;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
-  background: #f89e0f;
+  background: #0075A6;
 }
 
 #message-warning, #message-success {
